@@ -9,7 +9,7 @@ class human
             human(std::string last_name, std::string name, std::string second_name){
                 this->last_name=last_name;
                 this->name=name;
-                this->second_name=second_name'
+                this->second_name=second_name;
             }
             std::string get_full_name()
             {
