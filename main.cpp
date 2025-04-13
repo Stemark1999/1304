@@ -11,7 +11,7 @@ int main(int argc, char* argv[]){
     scores.push_back(3);
     scores.push_back(5);
     scores.push_back(4);
-    scores.push_back(2);
+    scores.push_back(2);//12345
     scores.push_back(1);//For what&
 
     student *stud1=new student("Ivanov","Ivan","Ivanovich",scores);
