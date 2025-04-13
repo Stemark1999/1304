@@ -12,6 +12,7 @@ int main(int argc, char* argv[]){
     scores.push_back(5);
     scores.push_back(4);
     scores.push_back(2);
+    scores.push_back(1);
 
     student *stud1=new student("Ivanov","Ivan","Ivanovich",scores);
     std::cout << stud1->get_full_name() << std::endl;
